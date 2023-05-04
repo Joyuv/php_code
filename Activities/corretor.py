@@ -96,7 +96,7 @@ questao('Q5', 'q5.php', [
     ('59', testar_igual, ['string(6) "Adulto"'])
 ])
 
-questao('Q6', 'q7.php', [
+questao('Q6', 'q6.php', [
     ('1 2 3', testar_igual, ['int(3)']),
     ('3 2 1', testar_igual, ['int(3)']),
     ('1 3 2', testar_igual, ['int(3)']),
@@ -105,7 +105,7 @@ questao('Q6', 'q7.php', [
     ('3 3 3', testar_igual, ['int(3)'])
 ])
 
-questao('Q7', 'q9.php', [
+questao('Q7', 'q7.php', [
     ('5', testar_igual, ['string(10) "1 2 3 4 5 "'])
 ])
 
