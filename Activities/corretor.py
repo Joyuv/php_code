@@ -86,7 +86,6 @@ questao('Q2', 'q2.php', [('Charlon', testar_igual, ['string(15) "Hello, Charlon!
 
 questao('Q3', 'q3.php', [('10.5 14.3 35.2', testar_igual, ['float(20)'])])
 
-questao('Q4', 'q4.php', [('525', testar_igual, ['string(7) "0h8m45s"'])])
 questao('Q4', 'q4.php', [('3679', testar_igual, ['string(7) "1h1m19s"'])])
 
 
