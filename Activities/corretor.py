@@ -110,5 +110,8 @@ questao('Q7', 'q7.php', [
 ])
 
 total_respostas = respostas_certas + respostas_erradas
-print(f'Respostas certas: {respostas_certas} de {total_respostas}')
+print(f'\nRespostas certas: {respostas_certas} de {total_respostas}')
 print(f'Respostas erradas: {respostas_erradas} de {total_respostas}')
+
+if respostas_certas == total_respostas:
+    print("\nParabéns, você completou o primeiro teste de progração ;) continue assim")
