@@ -15,6 +15,6 @@ Idoso = 60 anos ou mais
 
 6. Escreva um programa que receba 3 valores, a, b e c, e encontre o maior dentre eles.
 
-7. Escreva um algoritmo que receba um número n e exiba os números de 0 até n separados por um espaço.
+7. Escreva um algoritmo que receba um número n e exiba os números de 1 até n separados por um espaço.
 
 *Todos os direitos reservados © Charlon F. & Givanilson M.*
